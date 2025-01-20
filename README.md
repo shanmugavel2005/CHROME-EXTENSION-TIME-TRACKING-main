@@ -1,16 +1,18 @@
 # Web Activity Time Tracker <a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" rel="nofollow"><img src="https://user-images.githubusercontent.com/768070/51865757-87d45300-2347-11e9-84fd-bafff5b036b2.png" alt="Add to Chrome" style="max-width:100%;"></a>
 
+
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : PRAKASH V
+**Name**  : SHANMUGAVEL V
 
-**Id**:CT08ECB
+**Id**:CT08HHB
 
 **Domain**:FULl STACK WEB DEVOPLEMENT
 
-**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+**Batch Duration**: Dec 30th 2024 to Jan 30th, 2025 
 
 **Mentor Name** : NEELA SANTHOSH
+
 Web Activity Time Tracker keeps track of how much time you spend on the web and presents the stats in a useful and intuitive way. 
 You can set a daily visit limit for sites and block it after the expiration of the limit.               
 
